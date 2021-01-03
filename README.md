@@ -1,4 +1,4 @@
-### Hi there 👋
+My open source projects. Stuff that I have creatd on my spare time.
 
 <!--
 **TeemunProjektit/TeemunProjektit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
